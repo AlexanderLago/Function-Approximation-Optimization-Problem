@@ -19,7 +19,7 @@ is an infnite number of first-order conditions to this maximization problem (one
 these first-order conditions and the resource constraint, it can be shown that the solution is characterized by infnite
 pairs of equations
 .
-1. Solve the maximization problem (60 Points). Use the collocation method to nd the optimal consumption
+1. Solve the maximization problem (60 Points). Use the collocation method to and the optimal consumption
 policy c
 ∗
 t as a function of capital in the beginning of the period kt. That is, consider the functional equation:
